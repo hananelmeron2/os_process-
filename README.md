@@ -1,4 +1,4 @@
-# os_process-
+# os_process
 this code create 5 processes and print there pid.
 the processes store inside map arr.
 then each process from last to first will send signal to his sibiling.
