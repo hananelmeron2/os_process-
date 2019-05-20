@@ -1,5 +1,6 @@
 # os_process-
-the code create 5 processes and print there pid.
+this code create 5 processes and print there pid.
+the processes store inside map arr.
 then each process from last to first will send signal to his sibiling.
 and then from the first to the last thay will send each other kill signal.
 
